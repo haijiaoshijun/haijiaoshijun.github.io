@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang='zh-cn'>
+<head>
+<meta charset="utf-8">
+<title>这都能找到？给你了</title>
+<style>
+li{padding:12px;font-size:20px}
+body{margin:5px;
+background-color:powderblue}
+p{font-size:20px}
+table,th,td{border:1px solid black;
+border-collapse:collapse}
+</style>
+</head>
+<body>
+<a href='个人照片网页.html' target='_blank'><img src='https://ts1.tc.mm.bing.net/th/id/R-C.d28004684ca4f81a54959b57acbfdac7?rik=FdyMgA%2bbkmwyzA&riu=http%3a%2f%2fpic.616pic.com%2fys_img%2f00%2f24%2f47%2f8qcBDTrji1.jpg&ehk=BRqa5MHxqPvulnZ%2foNuUeo2Any6LPE5NF3%2bthQiJg0g%3d&risl=&pid=ImgRaw&r=0' width=285 height=375 style='float:right;margin:0'></a>
+<h1>基本情况</h1>
+<ul>
+<li title='性别：男'>我是谁：郑庆霖</li>
+<li title='岛民一位'>我从哪里来：海南三亚</li>
+<li>我要到哪里去：吃饭、睡觉、去学习</li>
+<li title='不好被发现了。其实是地球化学（有点冒牌货的感觉）'>我的专业是什么：化学</li>
+<li title='想了解具体实情去看官网吧'>我来自哪个院：<a href='http://www.pku.edu.cn' target='_blank'>北京大学</a><a href='https://sess.pku.edu.cn/' target='_blank'>地球与空间科学学院</a></li>
+<li>要怎么联系我：<i title='能不给电话吗(*^_^*)邮件就行了吧'>zhengqinglin26@stu.pku.edu.cn</i></li>
+</ul>
+<p style='text-align:right'><a href='无照片展示页.html' style='color:black;text-decoration:none' target='_blank'>这里没有图片</a></p>
+<hr>
+<h1>个人介绍</h1>
+<img src='未名秋.jpg' style='width:30%;height=30%'>
+<p title='我也不想写这么少，奈何自己不善文笔，写不出这么多东西啊'>我只是一个来自祖国最南端省份的南方小土豆而已(来到北京后快被冻个半死)。要说有什么特别的品质，好像也没有，普普通通、平平淡淡的一个人。为人比较内敛、喜欢独处，但是遇到熟人会很颠（应该比网页颠）。来到燕园后发现身边多了好多大佬，<abbr title='特指高数好难'>渐渐发现自己的能力有限，</abbr>正在努力赶上中。作为一个南方人，第一次看到秋天，燕园的美景就给我带来了深刻的印象，特此附照片一张，希望未来能在燕园度过充实的四年</p>
+<p>另外，如果有人愿意来我的家乡旅游，我非常欢迎。但是恕我冬天的时候不能奉陪（不想在路上被堵死，冬天海南的景区很堵）。我可以负责推荐地区和景点(●'◡'●)</p>
+<hr>
+<img src='石头.jpg' width=36% height=36% style='float:right'>
+<h1>兴趣爱好与展示</h1>
+<p>先展示一下自己去捡的石头</p>
+<ul>
+<li title='Volleyball!'><a href='排球展示页.html' style='color:black;text-decoration:none' target='_blank'>来Vo！欢迎交流，共同进步</a></li>
+<li title='嘻嘻，要是觉得没有问题的话你就是被骗了'><a href='飞机展示页.html' style='color:black;text-decoration:none' target='_blank'>似乎对航天有兴趣，喜欢看飞机</a></li>
+<li title='因为飞机属于航空，火箭才是航天'>似乎对航天也有兴趣,经常关注一些航天的资讯</li>
+<li>偶尔享受骑车的乐趣</li>
+<li><a href='火车展示页.html' style='color:black;text-decoration:none' target='_blank'>好像对火车也有点兴趣</a></li>
+<li title='不是装的，没有装的意图'>爱听一点老歌和古典乐</li>
+</ul>
+<hr>
+<h1 title='不知道为什么要写这个，只是看到有点个人简介写了我也就写了吧'>学习经历</h1>
+<table style='width:100%'>
+<tr>
+<th>表头</th>
+<th>时间</th>
+<th>学习单位</th>
+</tr>
+<tr>
+<th>初中</th>
+<td>2020.9~2023.6</td>
+<td><a href='https://www.rdfzsanya.cn' target='_blank'>人大附中三亚学校</a></td>
+</tr>
+<tr>
+<th>高中</th>
+<td>2023.9~2026.6</td>
+<td><a href='https://www.haizhong.edu.cn' target='_blank'>海南省海南中学</a></td>
+</tr>
+<tr>
+<th>大学</th>
+<td>2026.9至今</td>
+<td>北京大学地球与空间科学学院</td>
+</tr>
+</table>
+<p title='翻译：吃饭、睡觉、学习、玩小手机2'>研究方向：高脑容量灵长类的夜间低能耗活动与日间多器官联动下的全脑协同性输入的时空分布与循环规律研究；全系统参与下的特殊C、H、O共聚物在生物容器内的转化、利用与自动排废的宏观调研;高硅组分的目的与内容随机式启停的综合研究</p>
+</body>
+</html>
